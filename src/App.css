@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.design-heading_sub {
+  color: #ec55d5;
+}
+.nav_design {
+  list-style: none;
+  padding: unset;
+}
+.nav_design li a {
+  list-style: none !important;
+  color: #fff;
+  padding: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 18px;
+}
+.heading-design {
+  font-size: 20px;
+}
+.design-heading_sub {
+  color: #ec55d5;
+}
+

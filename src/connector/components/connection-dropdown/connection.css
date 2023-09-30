@@ -1,0 +1,33 @@
+.btn.active,
+.btn.show {
+  /* background-color: rgba(0,0,0,0.2) !important;
+  border-color: rgba(0,0,0,0.2) */
+}
+
+button#dropdown-basic-button {
+  background: black;
+  border: unset;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: '';
+  border-top: 0.3em solid;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0;
+  border-left: 0.3em solid transparent;
+}
+
+.dropdown_style {
+  display: flex;
+
+  /* background-color: black !important; */
+}
+
+
+
+.drop_down_menu {
+  /* background: black !important; */
+}
